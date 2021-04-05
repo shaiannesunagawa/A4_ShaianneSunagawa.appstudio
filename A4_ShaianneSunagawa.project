@@ -25,6 +25,14 @@
             "employeeDropdown",
             "employeeDropdown.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "deleteEmployee",
+            "deleteEmployee.json"
+          ]
         }
       ],
       "configxml": null,
@@ -46,7 +54,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "deleteEmployee",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",

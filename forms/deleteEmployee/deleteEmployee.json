@@ -14,18 +14,36 @@
       "!type": "External",
       "file": [
         "forms",
-        "employeeDropdown",
+        "deleteEmployee",
         "Elements",
-        "drpEmployeeState.json"
+        "btnShowEmployee.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "employeeDropdown",
+        "deleteEmployee",
         "Elements",
-        "txtaEmployeeOutput.json"
+        "selEmployee.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "deleteEmployee",
+        "Elements",
+        "lblMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "deleteEmployee",
+        "Elements",
+        "btnRefresh.json"
       ]
     }
   ],
@@ -35,7 +53,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "employeeDropdown",
+  "id": "deleteEmployee",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
