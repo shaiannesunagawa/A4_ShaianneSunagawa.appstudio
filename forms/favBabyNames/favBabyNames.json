@@ -14,45 +14,36 @@
       "!type": "External",
       "file": [
         "forms",
-        "babyNames",
+        "favBabyNames",
         "Elements",
-        "lblInfo.json"
+        "drpNames.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "babyNames",
+        "favBabyNames",
         "Elements",
-        "selBabyNames.json"
+        "imgBaby.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "babyNames",
+        "favBabyNames",
         "Elements",
-        "btnNextPage.json"
+        "lblFavNameMessage.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "babyNames",
+        "favBabyNames",
         "Elements",
-        "lblErrorMessage.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "babyNames",
-        "Elements",
-        "btnSubmit.json"
+        "lblInstructions.json"
       ]
     }
   ],
@@ -62,7 +53,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "babyNames",
+  "id": "favBabyNames",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -70,7 +61,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "babyNames.onshow()",
+  "onshow": "favBabyNames.onshow()",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",

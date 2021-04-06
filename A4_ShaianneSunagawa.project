@@ -41,6 +41,14 @@
             "babyNames",
             "babyNames.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "favBabyNames",
+            "favBabyNames.json"
+          ]
         }
       ],
       "configxml": null,
